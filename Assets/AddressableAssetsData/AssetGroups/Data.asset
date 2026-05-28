@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Data
+  m_GUID: b1118ea1751227c4bb5fd01e224ba23d
+  m_SerializeEntries:
+  - m_GUID: 24152332810613b438bda728976beb93
+    m_Address: Data/PlatformConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 343a860defd42524dafdabcf66030cea
+    m_Address: Data/BudgetConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6836f1ca9cb2a0a4f802265366396a66
+    m_Address: Data/MatchingConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 910c4c8f726678d4ab3652b3c95702c7
+    m_Address: Data/ScreenFaderConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a21c42dfb208c7a4e93e0aa67add39c3
+    m_Address: Data/InfluencerDatabase
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad3912c4a4c38374b9e660e86739cd15
+    m_Address: Data/CategoryConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1a2b3c4d5e6f701a2b3c4d5e6f701a2
+    m_Address: Data/SplashConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3a2b3c4d5e6f703a2b3c4d5e6f703c4
+    m_Address: Data/RecommendationConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5a2b3c4d5e6f705a2b3c4d5e6f705e6
+    m_Address: Data/ScoreBarConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6a2b3c4d5e6f706a2b3c4d5e6f706f7
+    m_Address: Data/UISharedConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 78e8ffc3290f54b4fb9e34d5205598d4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 73f6a1fbd1a7a5741a2b885e45854e5a, type: 2}
+    - {fileID: 11400000, guid: 484d9ad52484a68449adb5057d046fef, type: 2}
