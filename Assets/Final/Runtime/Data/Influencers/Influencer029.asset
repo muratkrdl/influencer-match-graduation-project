@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer029
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3083052959
+    m_Part2: 1099839142
+    m_Part3: 186020236
+    m_Part4: 1281352768
+  m_DisplayName: Zoey Sanchez
+  m_Handle: '@zoey23'
+  m_Email: zoey.sanchez@protonmail.com
+  m_Avatar: {fileID: 21300000, guid: 9acde4851edd691489f6de71748f0180, type: 3}
+  m_ShortBio: Sharing positive energy with my followers.
+  m_Followers: 1275939
+  m_EngagementRate: 0.013144663
+  m_BasePrice: 29500
+  m_CategoryScores:
+  - m_Category: 2
+    m_Score: 1
+  - m_Category: 4
+    m_Score: 1
+  m_ActivePlatforms: 0200000004000000

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer076
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1369980026
+    m_Part2: 1097025645
+    m_Part3: 1178668428
+    m_Part4: 1617351959
+  m_DisplayName: Joseph Clark
+  m_Handle: '@joseph29'
+  m_Email: joseph.clark@gmail.com
+  m_Avatar: {fileID: 21300000, guid: 35364531e9a2b684cb95f60c11feddd1, type: 3}
+  m_ShortBio: Personal development and life coaching.
+  m_Followers: 589531
+  m_EngagementRate: 0.014547425
+  m_BasePrice: 6000
+  m_CategoryScores:
+  - m_Category: 6
+    m_Score: 1
+  m_ActivePlatforms: 02000000

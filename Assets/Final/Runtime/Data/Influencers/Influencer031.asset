@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer031
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 136406791
+    m_Part2: 1165155135
+    m_Part3: 2285360801
+    m_Part4: 1513471090
+  m_DisplayName: Aubrey Moore
+  m_Handle: '@aubrey63'
+  m_Email: aubrey.moore@outlook.com
+  m_Avatar: {fileID: 21300000, guid: d1d1a095d7a89974ea75dd327b1df489, type: 3}
+  m_ShortBio: Traveller and explorer at heart.
+  m_Followers: 3524646
+  m_EngagementRate: 0.06631062
+  m_BasePrice: 41000
+  m_CategoryScores:
+  - m_Category: 6
+    m_Score: 2
+  - m_Category: 7
+    m_Score: 1
+  m_ActivePlatforms: 05000000

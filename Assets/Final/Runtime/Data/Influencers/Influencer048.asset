@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer048
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3184097041
+    m_Part2: 1246630973
+    m_Part3: 2706637245
+    m_Part4: 3621106303
+  m_DisplayName: Violet Davis
+  m_Handle: '@violet59'
+  m_Email: violet.davis@example.com
+  m_Avatar: {fileID: 21300000, guid: feb972470d7b3c740925d601d7ac7494, type: 3}
+  m_ShortBio: Snapshots from daily life.
+  m_Followers: 2898
+  m_EngagementRate: 0.046776563
+  m_BasePrice: 19500
+  m_CategoryScores:
+  - m_Category: 2
+    m_Score: 5
+  - m_Category: 7
+    m_Score: 1
+  m_ActivePlatforms: 05000000

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer009
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3898714439
+    m_Part2: 1245844459
+    m_Part3: 3446538134
+    m_Part4: 4091081853
+  m_DisplayName: Harper Lee
+  m_Handle: '@harper16'
+  m_Email: harper.lee@gmail.com
+  m_Avatar: {fileID: 21300000, guid: c545358fbec5dbd489978c4903d20168, type: 3}
+  m_ShortBio: Food and kitchen content creator.
+  m_Followers: 229541
+  m_EngagementRate: 0.08958687
+  m_BasePrice: 30000
+  m_CategoryScores:
+  - m_Category: 1
+    m_Score: 4
+  m_ActivePlatforms: 0300000002000000

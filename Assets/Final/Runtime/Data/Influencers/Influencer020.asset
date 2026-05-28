@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer020
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 219856274
+    m_Part2: 1177376675
+    m_Part3: 3016166810
+    m_Part4: 2420792704
+  m_DisplayName: Aria Sanchez
+  m_Handle: '@aria73'
+  m_Email: aria.sanchez@gmail.com
+  m_Avatar: {fileID: 21300000, guid: 3cf8d1ecb2433d244a8a64e3b82a2771, type: 3}
+  m_ShortBio: Sharing fashion tips and style ideas.
+  m_Followers: 98695
+  m_EngagementRate: 0.081764765
+  m_BasePrice: 48000
+  m_CategoryScores:
+  - m_Category: 3
+    m_Score: 3
+  - m_Category: 7
+    m_Score: 2
+  - m_Category: 6
+    m_Score: 2
+  m_ActivePlatforms: 020000000400000003000000

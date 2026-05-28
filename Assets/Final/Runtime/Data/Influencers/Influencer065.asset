@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer065
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1604508592
+    m_Part2: 1163182708
+    m_Part3: 2092382874
+    m_Part4: 462630683
+  m_DisplayName: Jacob Jones
+  m_Handle: '@jacob26'
+  m_Email: jacob.jones@mail.com
+  m_Avatar: {fileID: 21300000, guid: 5253164fadc8c87429888a2d6ea832d8, type: 3}
+  m_ShortBio: Sharing positive energy with my followers.
+  m_Followers: 289040
+  m_EngagementRate: 0.021520484
+  m_BasePrice: 11500
+  m_CategoryScores:
+  - m_Category: 2
+    m_Score: 2
+  - m_Category: 5
+    m_Score: 4
+  m_ActivePlatforms: 030000000400000001000000

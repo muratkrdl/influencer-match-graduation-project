@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer015
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 59613805
+    m_Part2: 1336779046
+    m_Part3: 1199231674
+    m_Part4: 2604075270
+  m_DisplayName: Sofia Rodriguez
+  m_Handle: '@sofia93'
+  m_Email: sofia.rodriguez@outlook.com
+  m_Avatar: {fileID: 21300000, guid: a178a5230c543b44f9bb36b31d8dc050, type: 3}
+  m_ShortBio: Personal development and life coaching.
+  m_Followers: 1645712
+  m_EngagementRate: 0.051573936
+  m_BasePrice: 44500
+  m_CategoryScores:
+  - m_Category: 3
+    m_Score: 4
+  - m_Category: 5
+    m_Score: 4
+  m_ActivePlatforms: 030000000200000001000000

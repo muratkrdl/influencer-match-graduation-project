@@ -1,0 +1,30 @@
+{
+    "name": "Final.InfluencerMatch",
+    "rootNamespace": "Final.InfluencerMatch",
+    "references": [
+        "GUID:8f1616e1f0034f6fba0717d571370199",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:bd63a9ce90ffe8341a8713ecc33870ce",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:9f6dc6f16e3a4842a55768ac39dadc82",
+        "GUID:9f271ba60f6ba5e45a6b3bfaa0fbdb9e",
+        "GUID:229528a4408f42b6b4ffe32af3549595",
+        "GUID:f6b4c1d3e9f74a5fac4e7f8d6f3b9c7e",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

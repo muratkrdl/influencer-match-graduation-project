@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer067
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3554763757
+    m_Part2: 1119336939
+    m_Part3: 2423786377
+    m_Part4: 9660065
+  m_DisplayName: Jackson Ramirez
+  m_Handle: '@jackson79'
+  m_Email: jackson.ramirez@mail.com
+  m_Avatar: {fileID: 21300000, guid: c5184fa21ba305c42b4a292d31664c32, type: 3}
+  m_ShortBio: Sports enthusiast and certified trainer.
+  m_Followers: 5857
+  m_EngagementRate: 0.046590414
+  m_BasePrice: 5000
+  m_CategoryScores:
+  - m_Category: 2
+    m_Score: 1
+  - m_Category: 4
+    m_Score: 3
+  - m_Category: 7
+    m_Score: 1
+  m_ActivePlatforms: 020000000500000003000000

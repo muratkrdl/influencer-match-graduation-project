@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer024
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1624736474
+    m_Part2: 1209801800
+    m_Part3: 3594670990
+    m_Part4: 4225664346
+  m_DisplayName: Penelope Hernandez
+  m_Handle: '@penelope12'
+  m_Email: penelope.hernandez@example.com
+  m_Avatar: {fileID: 21300000, guid: 603ab846acf6a734ab7433fe4631bd51, type: 3}
+  m_ShortBio: Snapshots from daily life.
+  m_Followers: 62156
+  m_EngagementRate: 0.015495333
+  m_BasePrice: 47500
+  m_CategoryScores:
+  - m_Category: 3
+    m_Score: 3
+  - m_Category: 8
+    m_Score: 3
+  m_ActivePlatforms: 050000000300000002000000

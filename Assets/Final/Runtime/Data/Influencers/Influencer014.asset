@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer014
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 2429849253
+    m_Part2: 1306385140
+    m_Part3: 392730287
+    m_Part4: 2811049524
+  m_DisplayName: Avery Anderson
+  m_Handle: '@avery17'
+  m_Email: avery.anderson@example.com
+  m_Avatar: {fileID: 21300000, guid: 19b2eccf38aaecb4eb19c00855017a56, type: 3}
+  m_ShortBio: Reviewing the latest tech and gadgets.
+  m_Followers: 3358
+  m_EngagementRate: 0.06845573
+  m_BasePrice: 27500
+  m_CategoryScores:
+  - m_Category: 6
+    m_Score: 5
+  - m_Category: 5
+    m_Score: 2
+  - m_Category: 7
+    m_Score: 1
+  m_ActivePlatforms: 0100000005000000

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer099
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1465803076
+    m_Part2: 1166792544
+    m_Part3: 2376811675
+    m_Part4: 2270353911
+  m_DisplayName: Maverick Taylor
+  m_Handle: '@maverick12'
+  m_Email: maverick.taylor@gmail.com
+  m_Avatar: {fileID: 21300000, guid: 3213c46275ffc6544a05336f6b55643d, type: 3}
+  m_ShortBio: Sharing positive energy with my followers.
+  m_Followers: 1070
+  m_EngagementRate: 0.028706877
+  m_BasePrice: 29000
+  m_CategoryScores:
+  - m_Category: 7
+    m_Score: 3
+  m_ActivePlatforms: 0100000003000000

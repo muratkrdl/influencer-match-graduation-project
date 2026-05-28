@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer068
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 2697850013
+    m_Part2: 1322194513
+    m_Part3: 2246016899
+    m_Part4: 341687618
+  m_DisplayName: Levi Sanchez
+  m_Handle: '@levi21'
+  m_Email: levi.sanchez@example.com
+  m_Avatar: {fileID: 21300000, guid: 789c5ba94ad609046bc2ebffc95b306f, type: 3}
+  m_ShortBio: Personal development and life coaching.
+  m_Followers: 1123736
+  m_EngagementRate: 0.06607652
+  m_BasePrice: 39000
+  m_CategoryScores:
+  - m_Category: 3
+    m_Score: 1
+  - m_Category: 8
+    m_Score: 3
+  - m_Category: 7
+    m_Score: 4
+  m_ActivePlatforms: 0300000002000000

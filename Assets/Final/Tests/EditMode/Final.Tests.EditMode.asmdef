@@ -1,0 +1,27 @@
+{
+    "name": "Final.Tests.EditMode",
+    "rootNamespace": "Final.Tests",
+    "references": [
+        "Final.InfluencerMatch",
+        "Final.Systems.Signals",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Final.Systems.EventBus",
+        "VContainer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Final.Systems.ConfigManagement",
+    "rootNamespace": "Final.Systems.ConfigManagement",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

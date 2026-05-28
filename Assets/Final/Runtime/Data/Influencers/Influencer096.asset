@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer096
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1495957779
+    m_Part2: 1270614873
+    m_Part3: 761220510
+    m_Part4: 1929257637
+  m_DisplayName: Charles Miller
+  m_Handle: '@charles71'
+  m_Email: charles.miller@protonmail.com
+  m_Avatar: {fileID: 21300000, guid: beda8b750f25bfc44986d72bbdef7adf, type: 3}
+  m_ShortBio: Snapshots from daily life.
+  m_Followers: 5560
+  m_EngagementRate: 0.04785669
+  m_BasePrice: 16500
+  m_CategoryScores:
+  - m_Category: 1
+    m_Score: 1
+  - m_Category: 2
+    m_Score: 5
+  - m_Category: 6
+    m_Score: 5
+  m_ActivePlatforms: 01000000

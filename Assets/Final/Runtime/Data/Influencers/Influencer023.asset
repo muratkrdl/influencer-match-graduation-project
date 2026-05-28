@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer023
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 457436052
+    m_Part2: 1330057332
+    m_Part3: 560143806
+    m_Part4: 3470143755
+  m_DisplayName: Camila Perez
+  m_Handle: '@camila67'
+  m_Email: camila.perez@protonmail.com
+  m_Avatar: {fileID: 21300000, guid: 25e940a5ada68a347941569cd971bd15, type: 3}
+  m_ShortBio: Traveller and explorer at heart.
+  m_Followers: 8830
+  m_EngagementRate: 0.031282686
+  m_BasePrice: 8000
+  m_CategoryScores:
+  - m_Category: 7
+    m_Score: 2
+  - m_Category: 4
+    m_Score: 5
+  - m_Category: 1
+    m_Score: 3
+  m_ActivePlatforms: 0100000003000000

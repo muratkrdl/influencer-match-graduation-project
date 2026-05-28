@@ -1,0 +1,28 @@
+{
+    "name": "Final.Tests.PlayMode",
+    "rootNamespace": "Final.Tests.PlayMode",
+    "references": [
+        "Final.InfluencerMatch",
+        "Final.Systems.Signals",
+        "Final.Systems.EventBus",
+        "GenericEventBus",
+        "VContainer",
+        "UnityEngine.TestRunner",
+        "DOTween.Modules",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

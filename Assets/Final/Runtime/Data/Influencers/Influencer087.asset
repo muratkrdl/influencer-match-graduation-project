@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer087
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 426901662
+    m_Part2: 1280103212
+    m_Part3: 1479762821
+    m_Part4: 2527129127
+  m_DisplayName: Jayden Thompson
+  m_Handle: '@jayden26'
+  m_Email: jayden.thompson@gmail.com
+  m_Avatar: {fileID: 21300000, guid: 98c9024dc84dc1940bedf8a964e796a0, type: 3}
+  m_ShortBio: Snapshots from daily life.
+  m_Followers: 22451
+  m_EngagementRate: 0.06368876
+  m_BasePrice: 31000
+  m_CategoryScores:
+  - m_Category: 3
+    m_Score: 4
+  - m_Category: 2
+    m_Score: 2
+  - m_Category: 1
+    m_Score: 1
+  m_ActivePlatforms: 0300000001000000

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer050
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 946834352
+    m_Part2: 1115785975
+    m_Part3: 3868383646
+    m_Part4: 2936516226
+  m_DisplayName: Bella Jackson
+  m_Handle: '@bella19'
+  m_Email: bella.jackson@outlook.com
+  m_Avatar: {fileID: 21300000, guid: ac967d5b4c820e84e81cfc5b84a84342, type: 3}
+  m_ShortBio: Comedy and entertainment content.
+  m_Followers: 11359
+  m_EngagementRate: 0.01749862
+  m_BasePrice: 45500
+  m_CategoryScores:
+  - m_Category: 7
+    m_Score: 3
+  - m_Category: 2
+    m_Score: 5
+  m_ActivePlatforms: 04000000

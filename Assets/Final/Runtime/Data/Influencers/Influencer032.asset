@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer032
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1801673920
+    m_Part2: 1298729056
+    m_Part3: 698712206
+    m_Part4: 3548501351
+  m_DisplayName: Hannah Miller
+  m_Handle: '@hannah52'
+  m_Email: hannah.miller@outlook.com
+  m_Avatar: {fileID: 21300000, guid: 6bdddb7e7c8c1714aaed4fe249fe6a74, type: 3}
+  m_ShortBio: Reviewing the latest tech and gadgets.
+  m_Followers: 401244
+  m_EngagementRate: 0.013717168
+  m_BasePrice: 46000
+  m_CategoryScores:
+  - m_Category: 7
+    m_Score: 3
+  - m_Category: 4
+    m_Score: 4
+  - m_Category: 6
+    m_Score: 4
+  m_ActivePlatforms: 040000000200000001000000

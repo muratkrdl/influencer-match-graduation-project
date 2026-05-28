@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer035
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 1977098518
+    m_Part2: 1300934161
+    m_Part3: 3660467083
+    m_Part4: 840303042
+  m_DisplayName: Eleanor Lewis
+  m_Handle: '@eleanor30'
+  m_Email: eleanor.lewis@mail.com
+  m_Avatar: {fileID: 21300000, guid: 06a213dfa2a723f4aba5817c5bc9164b, type: 3}
+  m_ShortBio: Personal development and life coaching.
+  m_Followers: 822112
+  m_EngagementRate: 0.09434906
+  m_BasePrice: 4000
+  m_CategoryScores:
+  - m_Category: 1
+    m_Score: 5
+  - m_Category: 8
+    m_Score: 5
+  - m_Category: 5
+    m_Score: 5
+  m_ActivePlatforms: 050000000100000003000000

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer060
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3281253927
+    m_Part2: 1103318742
+    m_Part3: 4027888554
+    m_Part4: 2639123689
+  m_DisplayName: Alexander White
+  m_Handle: '@alexander84'
+  m_Email: alexander.white@mail.com
+  m_Avatar: {fileID: 21300000, guid: 173ed932725849c4786e33d6907f0fd3, type: 3}
+  m_ShortBio: Sports enthusiast and certified trainer.
+  m_Followers: 2598330
+  m_EngagementRate: 0.058036733
+  m_BasePrice: 32500
+  m_CategoryScores:
+  - m_Category: 1
+    m_Score: 5
+  - m_Category: 6
+    m_Score: 1
+  m_ActivePlatforms: 050000000100000004000000

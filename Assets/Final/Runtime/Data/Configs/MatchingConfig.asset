@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f3905c6e7d8764b8c281d0d9988608, type: 3}
+  m_Name: MatchingConfig
+  m_EditorClassIdentifier: Final.Data::Final.Data.MatchingConfig
+  m_Alpha: 0.5
+  m_Beta: 0.3
+  m_Gamma: 0.2
+  m_FollowerNormalizationMin: 1000
+  m_FollowerNormalizationMax: 10000000
+  m_OverBudgetPenalty: 0.5
+  m_CategoryScoreMultipliers:
+  - m_Score: 1
+    m_Multiplier: 0.7
+  - m_Score: 2
+    m_Multiplier: 0.85
+  - m_Score: 3
+    m_Multiplier: 1
+  - m_Score: 4
+    m_Multiplier: 1.2
+  - m_Score: 5
+    m_Multiplier: 1.5
+  m_FollowerTierMultipliers:
+  - m_MinFollowersInclusive: 0
+    m_MaxFollowersExclusive: 10000
+    m_Multiplier: 0.5
+    m_Label: nano
+  - m_MinFollowersInclusive: 10000
+    m_MaxFollowersExclusive: 100000
+    m_Multiplier: 0.8
+    m_Label: micro
+  - m_MinFollowersInclusive: 100000
+    m_MaxFollowersExclusive: 500000
+    m_Multiplier: 1
+    m_Label: medium
+  - m_MinFollowersInclusive: 500000
+    m_MaxFollowersExclusive: 1000000
+    m_Multiplier: 1.4
+    m_Label: macro
+  - m_MinFollowersInclusive: 1000000
+    m_MaxFollowersExclusive: 2147483647
+    m_Multiplier: 2
+    m_Label: mega
+  m_PriceRoundingTL: 100
+  m_MinimumCategoryScoreToInclude: 1
+  m_TieBreakerSeed: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer062
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3562294272
+    m_Part2: 1181619512
+    m_Part3: 3898641068
+    m_Part4: 2378253907
+  m_DisplayName: Michael Lopez
+  m_Handle: '@michael43'
+  m_Email: michael.lopez@mail.com
+  m_Avatar: {fileID: 21300000, guid: c0836ad86df382b40b3e9ff86e0c6922, type: 3}
+  m_ShortBio: Sports enthusiast and certified trainer.
+  m_Followers: 1482162
+  m_EngagementRate: 0.08276514
+  m_BasePrice: 24000
+  m_CategoryScores:
+  - m_Category: 8
+    m_Score: 5
+  - m_Category: 5
+    m_Score: 3
+  m_ActivePlatforms: 0100000004000000

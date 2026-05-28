@@ -1,0 +1,22 @@
+{
+    "name": "Final.Editor",
+    "rootNamespace": "Final.Editor",
+    "references": [
+        "Final.InfluencerMatch",
+        "Final.Systems.DI",
+        "Final.Systems.ConfigManagement",
+        "Unity.TextMeshPro",
+        "VContainer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

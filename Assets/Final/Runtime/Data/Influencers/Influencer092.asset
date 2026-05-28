@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer092
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 32652541
+    m_Part2: 1101738240
+    m_Part3: 2227868337
+    m_Part4: 1428820550
+  m_DisplayName: Hudson Jackson
+  m_Handle: '@hudson28'
+  m_Email: hudson.jackson@mail.com
+  m_Avatar: {fileID: 21300000, guid: 3b08d75af23178f4aae9f8b5dcf8c8b3, type: 3}
+  m_ShortBio: Comedy and entertainment content.
+  m_Followers: 2253301
+  m_EngagementRate: 0.04483761
+  m_BasePrice: 2500
+  m_CategoryScores:
+  - m_Category: 1
+    m_Score: 4
+  m_ActivePlatforms: 05000000

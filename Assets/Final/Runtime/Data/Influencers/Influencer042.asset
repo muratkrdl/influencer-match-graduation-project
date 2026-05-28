@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer042
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 4184631939
+    m_Part2: 1195660948
+    m_Part3: 3279407274
+    m_Part4: 2614132918
+  m_DisplayName: Stella Thomas
+  m_Handle: '@stella42'
+  m_Email: stella.thomas@outlook.com
+  m_Avatar: {fileID: 21300000, guid: 46f1b33c2a841544eac3450bbd7e4c98, type: 3}
+  m_ShortBio: Creating educational content for everyone.
+  m_Followers: 2810
+  m_EngagementRate: 0.06027839
+  m_BasePrice: 4000
+  m_CategoryScores:
+  - m_Category: 6
+    m_Score: 2
+  - m_Category: 3
+    m_Score: 1
+  - m_Category: 4
+    m_Score: 2
+  m_ActivePlatforms: 010000000500000004000000

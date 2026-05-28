@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer027
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 410817615
+    m_Part2: 1341839940
+    m_Part3: 1390267020
+    m_Part4: 2191399393
+  m_DisplayName: Lillian Taylor
+  m_Handle: '@lillian67'
+  m_Email: lillian.taylor@gmail.com
+  m_Avatar: {fileID: 21300000, guid: 660a8f043d96a4a49b8ca848333bd1c7, type: 3}
+  m_ShortBio: Comedy and entertainment content.
+  m_Followers: 301600
+  m_EngagementRate: 0.038676146
+  m_BasePrice: 13000
+  m_CategoryScores:
+  - m_Category: 6
+    m_Score: 1
+  m_ActivePlatforms: 0100000003000000

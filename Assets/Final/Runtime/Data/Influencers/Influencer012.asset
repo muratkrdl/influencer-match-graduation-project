@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149b7e5e47b936b438576e8b0f193aa1, type: 3}
+  m_Name: Influencer012
+  m_EditorClassIdentifier: Final.Data::Final.Data.InfluencerData
+  m_Id:
+    m_Part1: 3406657365
+    m_Part2: 1331128944
+    m_Part3: 3006369455
+    m_Part4: 2298161467
+  m_DisplayName: Emily Rodriguez
+  m_Handle: '@emily86'
+  m_Email: emily.rodriguez@gmail.com
+  m_Avatar: {fileID: 21300000, guid: e16cf9fcc4e61ec4a89bd1c2b8b97e17, type: 3}
+  m_ShortBio: Personal development and life coaching.
+  m_Followers: 217533
+  m_EngagementRate: 0.0273277
+  m_BasePrice: 13000
+  m_CategoryScores:
+  - m_Category: 6
+    m_Score: 5
+  m_ActivePlatforms: 0500000001000000
